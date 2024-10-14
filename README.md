@@ -97,7 +97,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![cry ex1](https://github.com/user-attachments/assets/ea9a0270-a8ae-443c-bc65-812dc582bccc)
+![exp 1](https://github.com/user-attachments/assets/6c5cde5b-319b-4deb-b9ce-45bfaa848b57)
+
 
 
 ## RESULT:
@@ -291,7 +292,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![exppp2](https://github.com/user-attachments/assets/da5d27a0-6513-4dc5-be52-987102ccbf68)
+![exp 2](https://github.com/user-attachments/assets/c3e48f8e-6750-4835-a8ac-04067011d9c4)
+
 
 
 
@@ -378,7 +380,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "PRADEEP");
+    strcpy(msg, "RISHI KEERTHI");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -425,7 +427,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![CRY EX3](https://github.com/user-attachments/assets/832887be-0d99-4fc4-99ca-b7070a7c3266)
+![exp 3](https://github.com/user-attachments/assets/b1bd57c2-6051-47d6-a3f6-5f078acd0c90)
 
 
 ## RESULT:
@@ -537,8 +539,8 @@ void decipher() {
 }
 ```
 ## OUTPUT:
+![exp 4](https://github.com/user-attachments/assets/fa3e46ab-3369-4dbd-ae6b-8275060a1f56)
 
-![CRY EX4](https://github.com/user-attachments/assets/ed768cc8-a032-4104-a0dc-9aeed1bcdbec)
 
 
 ## RESULT:
@@ -681,8 +683,8 @@ int main() {
 
 ```
 ## OUTPUT:
+![exp 5](https://github.com/user-attachments/assets/79f7964e-4e38-401d-8cdd-d36fd055f89a)
 
-![CRY EX5](https://github.com/user-attachments/assets/2c4450c9-6daa-4fc8-a5b9-e41269279be4)
 
 
 ## RESULT:
